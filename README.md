@@ -13,11 +13,7 @@
 
 ---
 
-## 📸 Landing Page Preview
 
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://irctc-one.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="90%" />
-</p>
 
 ---
 
